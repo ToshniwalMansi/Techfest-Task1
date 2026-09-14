@@ -111,12 +111,4 @@ For the best development experience, you can use the **Live Server** extension i
 
 Engineering Student & Content Creator
 
----
 
-### Assignment Submission
-
-**GitHub Repository:**
-`[Add GitHub Repository Link]`
-
-**Demo Recording:**
-`[Add Google Drive Demo Link]`
